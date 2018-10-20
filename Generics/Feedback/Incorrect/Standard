@@ -1,0 +1,14 @@
+Player is provided with feedback after attempting a task / Q incorrectly
+Use when: 
+  Player did not complete task correctly
+  Standard feedback required 
+Features:
+  Background: environment
+  Q remains visible
+  Text includes 
+    Confirmation incorrect
+    If more than one option, which ones were wrong (but not correct answer)
+    Explanatory note
+  Confirmation button (forward arrow or similar)
+Variables:
+  Feedback text
