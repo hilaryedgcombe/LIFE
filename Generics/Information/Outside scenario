@@ -1,0 +1,8 @@
+Player is provided with information outside the 'story'
+Use when: 
+  Generic information should be provided eg. T&C, navigation tips 
+Features:
+  Background: tbc - black background?
+  Confirmation button (forward arrow or similar)
+Variables:
+  Information text
