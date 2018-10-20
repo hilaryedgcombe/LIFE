@@ -1,0 +1,12 @@
+Player is provided with feedback after succeeding at a task / Q 
+Use when: 
+  Player completed task correctly
+  Standard feedback required 
+Features:
+  Background: environment
+  Q remains visible
+  Text includes 
+    Confirmation correct
+  Confirmation button (forward arrow or similar) to re-try Q
+Variables:
+Feedback text
