@@ -1,0 +1,8 @@
+Player is not provided with feedback after attempting a task / Q incorrectly: instead they progress as reality would
+Use when: 
+  Player did not complete task correctly
+  Progression to failure required
+Features:
+  No visual: player progresses to reality consequence of their choice
+Variables:
+  Identify next progression stage dependent on error
