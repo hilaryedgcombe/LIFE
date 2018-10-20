@@ -9,6 +9,6 @@ Features:
     Confirmation incorrect
     If more than one option, which ones were wrong (but not correct answer)
     Explanatory note
-  Confirmation button (forward arrow or similar)
+  Confirmation button (forward arrow or similar) to re-try Q
 Variables:
   Feedback text
