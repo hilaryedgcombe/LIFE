@@ -1,0 +1,12 @@
+Player selects one correct answer from several in a dropdown menu
+Use when: 
+  Question explores understanding; options consist of explanations therefore longer text
+Features:
+  Background: environment view
+  Q at top of screen
+  Answers shuffled each time attempted
+  Submit button 
+Variables:
+  Q text
+  Answer text
+  Number of answer options
