@@ -1,0 +1,8 @@
+Player is provided with information as part of the 'story'
+Use when: 
+  Information is required to progress scenario or as part of background to next Q 
+Features:
+  Background: environment
+  Confirmation button (forward arrow or similar)
+Variables:
+  Information text
