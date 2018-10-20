@@ -1,0 +1,8 @@
+Player is not provided with feedback after succeeding at a task / Q: instead they progress as reality would
+Use when: 
+  Player completed task correctly
+  No feedback offered
+Features:
+  No visual: player progresses to reality consequence of their choice
+Variables:
+Identify next progression stage dependent on Q
