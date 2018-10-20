@@ -1,0 +1,11 @@
+Player selects one or more correct answers from several displayed simultaneously on screen
+Features:
+  Background: environment view
+  Q at top of screen
+  Answers shuffled each time attempted
+  Submit button 
+Variables:
+  Q text
+  Answer text
+  Number of answer options
+  Number of correct answers
