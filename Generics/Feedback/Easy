@@ -1,0 +1,10 @@
+Player is provided with feedback after attempting a task / Q
+Use when: 
+  Easy feedback required 
+Features:
+  Background: environment
+  Q remains visible
+  Text includes correct answer, explanatory note
+  Confirmation button (forward arrow or similar)
+Variables:
+  Feedback text
