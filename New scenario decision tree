@@ -1,0 +1,20 @@
+Identify scenario content
+                    e.g. Neonatal resuscitation 
+  Confirm version in use
+                    e.g. 2016 Kenya guidelines
+Construct algorithm for all possible correct management steps within scenario
+  Consider key branch points
+                    e.g. number of providers
+  Subdivide algorithm into segments 
+                    e.g. identifying equipment / ventilation technique
+Identify every learning point: what must the learner demonstrate they have learned?
+  Identify common errors for every learning point
+Determine which generic template/s required for each learning point
+Create file list for developer of algorithm including segments, learning points, generic templates, variables for each learning point template
+Identify timestamps required
+Identify analytics required
+Review for learning efficacy:
+  Minimised extraneous material
+  Managed essential material (segmentation, recaps, text near visual)
+  Promoted generative processing (psych engagement not just behavioural, topic mapping)
+  
