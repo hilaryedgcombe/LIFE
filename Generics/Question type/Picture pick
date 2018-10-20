@@ -1,0 +1,13 @@
+Player selects one or more correct picture answers from several displayed simultaneously on screen
+Use when: 
+  Player needs to demonstrate ability to identify items visually 
+Features:
+  Background: environment view
+  Q at top of screen
+  Answers shuffled each time attempted
+  Submit button 
+Variables:
+  Q text
+  Answer images
+  Number of answer options
+  Number of correct answers
